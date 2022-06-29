@@ -1,0 +1,27 @@
+
+@media (max-width: 700px) { 
+    .btn-primary{
+        text-align: center;
+    
+        }
+        p{
+        
+            font-family: 'Fuzzy Bubbles', cursive;
+           
+            
+        }
+
+ }
+
+ @media (min-width: 700px){
+    .btn-primary{
+        text-align: center;
+    
+        }
+        p{
+        
+            font-family: 'Fuzzy Bubbles', cursive;
+           
+            
+        }
+} 

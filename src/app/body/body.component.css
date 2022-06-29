@@ -1,0 +1,61 @@
+
+@media (max-width: 700px) {
+    .container-fluid {
+        padding-top: 18.5%;
+        padding-bottom: 25%;
+        background-image: url(img\3498091.png);
+        background-repeat: no-repeat;
+        background-size: 100% 75%;
+        height: 210vw;
+        background-color: rgb(108, 174, 236);
+    }
+
+    p {
+
+        font-family: 'Fuzzy Bubbles', cursive;
+        text-align: center;
+        margin-top: 38%;
+    }
+
+    h1 {
+        text-align: center;
+        font-family: 'Passero One', cursive;
+        font-size: 350% !important;
+        color: rgb(22, 79, 185);
+
+    }
+}
+@media (min-width: 700px){
+    .btn-primary{
+    text-align: center;
+    
+    }
+       
+.container-fluid{
+    padding-top: 18.5%;
+    padding-bottom: 19%;
+    background-image: url(img\3498091.png);
+    background-repeat: no-repeat;
+    
+    
+    background-color: rgb(108, 174, 236);
+}
+p{
+    
+    font-family: 'Fuzzy Bubbles', cursive;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 336px;
+    margin-right: 336px;
+    
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Passero One', cursive;
+    font-size: 1000%;
+    color: rgb(22, 79, 185);
+      
+}    
+
+}
